@@ -64,7 +64,7 @@
 /* home section */
 .home {
     display :flex;
-    background :url("images/light.jpg") no-repeat center;
+    background :url("images/LIGHT.jpg") no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     height:100vh ;
